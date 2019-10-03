@@ -1,5 +1,5 @@
 body {
-    background-color: darkgray
+    background-color: #A9A9A9;
 
 }
 
@@ -39,7 +39,7 @@ body {
 }
 
 #bannerimg {
-    height: auto;
+    height:auto;
     width: 100%;
     
 }
@@ -56,7 +56,7 @@ body {
 
 .box {
     position:relative;
-    border-color: darkorange;
+    border-color:lightskyblue;
     top: 30%;
     left: 2%;
     width: 70%;
@@ -68,7 +68,7 @@ body {
     padding-bottom: 10px;
     border-width:thick;
     border-style:ridge;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Times New Roman', serif;
     text-decoration-color: azure;
     text-emphasis-color: azure;
     color: white;
@@ -89,3 +89,26 @@ body {
     
 }
 
+.gallery{
+   
+    height:250px;
+    border-color:salmon;
+    border-style:dashed;
+    border-width: 5px;
+    position:relative;
+    margin: .7%;
+    
+}
+
+.gallery2{
+    width:95%;
+    border-width: 5px;
+    position:relative;
+    margin: .7%;
+}
+.gallery3{
+    width:35%;
+    border-width: 5px;
+    position:relative;
+    margin: .7%;
+}
