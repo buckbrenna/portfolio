@@ -1,0 +1,8 @@
+class Fire
+{
+  public Fire(){ 
+  }
+  
+  
+  
+}
